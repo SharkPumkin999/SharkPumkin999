@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi!
 Welcome to my github profile !!!!
-I am happy to share you with my code and my projects.
+I am happy to share  my code and my projects.
 All of code in my profile are non-profit so you can use everything 
 
 Country : Vietnam
